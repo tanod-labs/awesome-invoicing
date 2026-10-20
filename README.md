@@ -51,6 +51,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
+| [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli) | ✅ | ❌ | ❌ | ✅ | CLI |
 
 ## AI-native & conversational
 
@@ -78,6 +79,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 - **[Canva Invoices](https://www.canva.com/invoice/)** — Template-driven invoices inside Canva; strong on design, requires a Canva account. `Free` `Templates`
 - **[Wise Invoice Generator](https://wise.com/us/invoice-generator/)** — Free no-signup invoice templates aimed at cross-border freelancers. `Free` `No signup`
 - **[SumUp Invoices](https://www.sumup.com/en-gb/invoices/)** — Mobile-first invoicing inside SumUp's payment ecosystem (formerly Debitoor). `Free` `Payments` `Mobile`
+- **[freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli)** — Zero-dependency command-line tool that generates a clean, printable HTML invoice from a JSON file; also runnable via `npx` without installing anything. `Free forever` `No signup` `CLI`
 
 ## E-invoicing & compliance (EU / Germany)
 
