@@ -51,6 +51,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
+| [TimeTracker](https://github.com/drytrix/TimeTracker) | ✅ | ✅ | ❌ | ❌ | Web · API · Mobile · Desktop |
 
 ## AI-native & conversational
 
@@ -92,6 +93,7 @@ Tools that produce structured, standards-compliant e-invoices — required for p
 - **[Accountable](https://www.accountable.de)** — English-first freelancer tax and invoicing app with native EN 16931 support; strong in Germany and Belgium. `Freemium` `EN 16931` `🇩🇪` `🇧🇪`
 - **[Norman Finance](https://norman.finance)** — English-friendly accounting and invoicing for German freelancers, with a free tier. `Free tier` `EN 16931` `🇩🇪`
 - **[Papierkram](https://www.papierkram.de)** — German accounting with a project- and time-tracking-led invoicing workflow; free tier available. `Free tier` `EN 16931` `🇩🇪`
+- **[TimeTracker](https://github.com/drytrix/TimeTracker)** — Self-hosted open-source time tracking and invoicing with a bundled Peppol Bridge and Factur-X / ZUGFeRD PDF embedding. `Free forever` `EN 16931` `Peppol` `API` `Mobile`
 - **[B2Brouter](https://www.b2brouter.net/)** — Peppol Access Point with a free portal for SMEs and freelancers, plus a public REST API. `Free tier` `EN 16931` `Peppol` `API`
 - **[Storecove](https://www.storecove.com/)** — Developer-first Peppol Access Point with a RESTful JSON API and a free sandbox. `Paid` `Peppol` `API`
 - **[Qonto](https://qonto.com/de)** — EU SMB neobank bundling a compliant e-invoicing module into its business account. `Paid` `EN 16931` `Banking` `API`
